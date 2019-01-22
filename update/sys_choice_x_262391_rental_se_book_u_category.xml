@@ -247,6 +247,25 @@
             <sys_updated_on>2019-01-22 11:13:14</sys_updated_on>
             <value>psychology</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HOW-TO</label>
+            <language>en</language>
+            <name>x_262391_rental_se_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-22 13:23:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>add67a53db83230077f99fd2ca961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-22 13:23:35</sys_updated_on>
+            <value>HOW-TO</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_category</element>
             <name>x_262391_rental_se_book</name>

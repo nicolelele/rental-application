@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_262391_rental_se.populate_book_user" name="x_262391_rental_se.populate_book_user">1ab3ea13db43230077f99fd2ca96194d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-22 12:00:04</sys_created_on>
+        <sys_id>1ab36a97db43230077f99fd2ca96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1ab3ea13db43230077f99fd2ca96194d</sys_name>
+        <sys_package display_value="Rental Services" source="x_262391_rental_se">ffb80297db03230077f99fd2ca9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Services">ffb80297db03230077f99fd2ca9619b9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1ab36a97db43230077f99fd2ca96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-22 12:00:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

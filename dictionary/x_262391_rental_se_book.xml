@@ -17,6 +17,10 @@
                 <element inactive_on_update="false" label="Spiral Bound" value="spiral_bound"/>
                 <element inactive_on_update="false" label="Toy" value="toy"/>
                 <element inactive_on_update="false" label="VHS" value="vhs"/>
+                <element inactive_on_update="false" label="Board--" sequence="0" value="Board--"/>
+                <element inactive_on_update="false" label="Box--ed Set" sequence="0" value="Box--ed Set"/>
+                <element inactive_on_update="false" label="Paper Back--" sequence="0" value="Paper Back--"/>
+                <element inactive_on_update="false" label="Paper B{ack" sequence="0" value="Paper B{ack"/>
             </choice>
         </element>
         <element choice="1" label="Category" mandatory="true" max_length="40" name="u_category" type="choice">
@@ -34,6 +38,7 @@
                 <element inactive_on_update="false" label="How to" value="how_to"/>
                 <element inactive_on_update="false" label="Literature" value="literature"/>
                 <element inactive_on_update="false" label="Psychology" value="psychology"/>
+                <element inactive_on_update="false" label="HOW-TO" sequence="0" value="HOW-TO"/>
             </choice>
         </element>
         <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
