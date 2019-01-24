@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_262391_rental_se_book" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_title</element>
+            <list_id display_value="x_262391_rental_se_book" element="NULL" name="x_262391_rental_se_book" parent="NULL" relationship="NULL" sys_domain="global" view="c27c307365022300aadb05e0fb3edf52">7cf64948db53230077f99fd2ca961923</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-24 13:10:11</sys_created_on>
+            <sys_id>34f64948db53230077f99fd2ca961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-24 13:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_author</element>
+            <list_id display_value="x_262391_rental_se_book" element="NULL" name="x_262391_rental_se_book" parent="NULL" relationship="NULL" sys_domain="global" view="c27c307365022300aadb05e0fb3edf52">7cf64948db53230077f99fd2ca961923</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-24 13:10:11</sys_created_on>
+            <sys_id>b4f64948db53230077f99fd2ca961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-24 13:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_category</element>
+            <list_id display_value="x_262391_rental_se_book" element="NULL" name="x_262391_rental_se_book" parent="NULL" relationship="NULL" sys_domain="global" view="c27c307365022300aadb05e0fb3edf52">7cf64948db53230077f99fd2ca961923</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-24 13:10:11</sys_created_on>
+            <sys_id>38f64948db53230077f99fd2ca961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-24 13:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_262391_rental_se_book</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-24 13:10:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cf64948db53230077f99fd2ca961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_262391_rental_se_book</sys_name>
+            <sys_package display_value="Rental Services" source="x_262391_rental_se">ffb80297db03230077f99fd2ca9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Services">ffb80297db03230077f99fd2ca9619b9</sys_scope>
+            <sys_update_name>sys_ui_list_x_262391_rental_se_book_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-24 13:10:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">c27c307365022300aadb05e0fb3edf52</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
