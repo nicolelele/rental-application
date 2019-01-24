@@ -14,18 +14,18 @@
         <mobile_title> Rental Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_262391_rental_se_rental_request</name>
-        <order/>
+        <order>20</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_262391_rental_se._rental_request_user</roles>
+        <roles>x_262391_rental_se._rental_request_user,admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-22 13:26:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b1873a53db83230077f99fd2ca9619d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name> Rental Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="Rental Services" source="x_262391_rental_se">ffb80297db03230077f99fd2ca9619b9</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Rental Services">ffb80297db03230077f99fd2ca9619b9</sys_scope>
         <sys_update_name>sys_app_module_b1873a53db83230077f99fd2ca9619d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-22 13:26:37</sys_updated_on>
+        <sys_updated_on>2019-01-24 11:12:18</sys_updated_on>
         <timeline_page/>
         <title> Rental Requests</title>
         <uncancelable>false</uncancelable>
