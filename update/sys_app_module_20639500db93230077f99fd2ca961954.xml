@@ -5,7 +5,8 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_262391_rental_se_rental_request">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        <filter table="x_262391_rental_se_rental_request">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -13,31 +14,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title> Rental Requests</mobile_title>
+        <mobile_title>My Books Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_262391_rental_se_rental_request</name>
-        <order>30</order>
+        <order>20</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_262391_rental_se._rental_request_user,admin</roles>
+        <roles>x_262391_rental_se._rental_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-22 13:26:37</sys_created_on>
+        <sys_created_on>2019-01-24 14:06:32</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b1873a53db83230077f99fd2ca9619d8</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Rental Requests</sys_name>
+        <sys_id>20639500db93230077f99fd2ca961954</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>My Book Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="Rental Services" source="x_262391_rental_se">ffb80297db03230077f99fd2ca9619b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Services">ffb80297db03230077f99fd2ca9619b9</sys_scope>
-        <sys_update_name>sys_app_module_b1873a53db83230077f99fd2ca9619d8</sys_update_name>
+        <sys_update_name>sys_app_module_20639500db93230077f99fd2ca961954</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-25 13:06:05</sys_updated_on>
+        <sys_updated_on>2019-01-25 13:20:35</sys_updated_on>
         <timeline_page/>
-        <title>Rental Requests</title>
+        <title>My Book Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
